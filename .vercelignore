@@ -1,0 +1,10 @@
+# Local-only files — never upload
+.verebuf/
+.vercel/
+data/
+.env
+.env.local
+.env*.local
+*.tsbuildinfo
+npm-debug.log*
+.DS_Store

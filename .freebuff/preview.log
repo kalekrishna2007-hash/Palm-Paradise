@@ -1,0 +1,243 @@
+
+> palm-and-paradise@1.0.0 dev
+> next dev -p 3000
+
+   ▲ Next.js 15.5.25
+   - Local:        http://localhost:3000
+   - Network:      http://26.129.213.136:3000
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 7.8s
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 12.1s (698 modules)
+ GET /contact 200 in 14138ms
+ ✓ Compiled in 2.4s (261 modules)
+ ✓ Compiled in 845ms (261 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 5.5s (728 modules)
+ GET / 200 in 7193ms
+ GET / 200 in 697ms
+ GET / 200 in 1290ms
+ ✓ Compiled in 1297ms (274 modules)
+ ✓ Compiled in 669ms (274 modules)
+ ✓ Compiled in 465ms (274 modules)
+ ✓ Compiled in 454ms (274 modules)
+ ✓ Compiled in 436ms (274 modules)
+ ✓ Compiled in 429ms (274 modules)
+ ✓ Compiled in 439ms (274 modules)
+ ✓ Compiled in 474ms (274 modules)
+ ✓ Compiled in 728ms (274 modules)
+ ✓ Compiled in 659ms (274 modules)
+ ✓ Compiled in 406ms (274 modules)
+ ✓ Compiled in 604ms (274 modules)
+ ✓ Compiled in 519ms (274 modules)
+ ✓ Compiled in 879ms (274 modules)
+ GET / 200 in 4055ms
+ ✓ Compiled in 385ms (274 modules)
+ ✓ Compiled in 463ms (274 modules)
+ ✓ Compiled in 465ms (274 modules)
+ ✓ Compiled in 677ms (274 modules)
+ ✓ Compiled in 362ms (274 modules)
+ GET / 200 in 3585ms
+ ✓ Compiled in 678ms (274 modules)
+ ✓ Compiled in 485ms (274 modules)
+ ✓ Compiled in 924ms (274 modules)
+ ✓ Compiled in 356ms (274 modules)
+ GET / 200 in 4009ms
+ ✓ Compiled in 440ms (274 modules)
+ ✓ Compiled in 440ms (274 modules)
+ ✓ Compiled in 682ms (274 modules)
+ ✓ Compiled in 383ms (274 modules)
+ GET / 200 in 3826ms
+ ✓ Compiled in 436ms (274 modules)
+ ✓ Compiled in 595ms (274 modules)
+ ✓ Compiled in 482ms (274 modules)
+ ✓ Compiled in 471ms (274 modules)
+ GET / 200 in 3374ms
+ ✓ Compiled in 952ms (274 modules)
+ ✓ Compiled in 403ms (274 modules)
+ ✓ Compiled in 478ms (274 modules)
+ ✓ Compiled in 470ms (274 modules)
+ ✓ Compiled in 426ms (274 modules)
+ ✓ Compiled in 455ms (274 modules)
+ GET / 200 in 3367ms
+ ✓ Compiled in 434ms (274 modules)
+ ✓ Compiled in 457ms (274 modules)
+ ✓ Compiled in 436ms (274 modules)
+ ✓ Compiled in 454ms (274 modules)
+ ✓ Compiled in 530ms (274 modules)
+ ✓ Compiled in 524ms (274 modules)
+ ✓ Compiled in 443ms (274 modules)
+ ✓ Compiled in 440ms (274 modules)
+ ✓ Compiled in 468ms (274 modules)
+ ✓ Compiled in 450ms (274 modules)
+ ✓ Compiled in 667ms (274 modules)
+ ✓ Compiled in 493ms (274 modules)
+ ✓ Compiled in 490ms (274 modules)
+ ✓ Compiled in 467ms (274 modules)
+ ✓ Compiled in 470ms (274 modules)
+ ✓ Compiled in 847ms (274 modules)
+ GET / 200 in 4042ms
+ ✓ Compiled in 369ms (274 modules)
+ ✓ Compiled in 438ms (274 modules)
+ ✓ Compiled in 432ms (274 modules)
+ ✓ Compiled in 739ms (274 modules)
+ ✓ Compiled in 402ms (274 modules)
+ GET / 200 in 3485ms
+ ✓ Compiled in 478ms (274 modules)
+ ✓ Compiled in 516ms (274 modules)
+ ✓ Compiled in 505ms (274 modules)
+ ✓ Compiled in 463ms (274 modules)
+ GET / 200 in 3297ms
+ ✓ Compiled in 801ms (274 modules)
+ ✓ Compiled in 515ms (274 modules)
+ ✓ Compiled in 520ms (274 modules)
+ ✓ Compiled in 534ms (274 modules)
+ ✓ Compiled in 470ms (274 modules)
+ ✓ Compiled in 497ms (274 modules)
+ ✓ Compiled in 491ms (274 modules)
+ ✓ Compiled in 464ms (274 modules)
+ ✓ Compiled in 563ms (274 modules)
+ ✓ Compiled in 444ms (274 modules)
+ ✓ Compiled in 487ms (274 modules)
+ ✓ Compiled in 622ms (274 modules)
+ ✓ Compiled in 440ms (274 modules)
+ ✓ Compiled in 509ms (274 modules)
+ GET / 200 in 911ms
+ GET / 200 in 366ms
+ GET / 200 in 328ms
+ GET / 200 in 421ms
+ GET / 200 in 335ms
+ GET / 200 in 351ms
+ GET / 200 in 369ms
+ GET / 200 in 449ms
+ GET / 200 in 390ms
+ GET / 200 in 338ms
+ GET / 200 in 332ms
+ GET / 200 in 328ms
+ GET / 200 in 404ms
+ GET / 200 in 316ms
+ GET / 200 in 322ms
+ GET / 200 in 316ms
+ GET / 200 in 356ms
+ GET / 200 in 354ms
+ GET / 200 in 718ms
+ GET / 200 in 328ms
+ GET / 200 in 372ms
+ GET / 200 in 326ms
+ GET / 200 in 338ms
+ GET / 200 in 353ms
+ GET / 200 in 317ms
+ GET / 200 in 292ms
+ GET / 200 in 275ms
+ GET / 200 in 334ms
+ GET / 200 in 334ms
+ GET / 200 in 333ms
+ GET / 200 in 323ms
+ GET / 200 in 314ms
+ GET / 200 in 332ms
+ GET / 200 in 310ms
+ GET / 200 in 313ms
+ GET / 200 in 311ms
+ GET / 200 in 297ms
+ GET / 200 in 324ms
+ GET / 200 in 305ms
+ GET / 200 in 291ms
+ GET / 200 in 293ms
+ GET / 200 in 294ms
+ GET / 200 in 328ms
+ GET / 200 in 313ms
+ GET / 200 in 307ms
+ GET / 200 in 326ms
+ GET / 200 in 270ms
+ GET / 200 in 323ms
+ GET / 200 in 273ms
+ GET / 200 in 208ms
+ GET / 200 in 329ms
+ GET / 200 in 286ms
+ GET / 200 in 274ms
+ GET / 200 in 283ms
+ GET / 200 in 306ms
+ GET / 200 in 328ms
+ GET / 200 in 286ms
+ GET / 200 in 353ms
+ GET / 200 in 316ms
+ GET / 200 in 279ms
+ GET / 200 in 308ms
+ GET / 200 in 298ms
+ GET / 200 in 237ms
+ GET / 200 in 262ms
+ GET / 200 in 287ms
+ GET / 200 in 303ms
+ GET / 200 in 290ms
+ ○ Compiling /banquets ...
+ ✓ Compiled /banquets in 588ms (711 modules)
+ GET /banquets 200 in 877ms
+ GET / 200 in 1981ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 792ms (458 modules)
+ GET /contact 200 in 1845ms
+ ○ Compiling /admin ...
+ ✓ Compiled /admin in 2.9s (780 modules)
+ ✓ Compiled in 1244ms (285 modules)
+ GET /admin 200 in 4970ms
+ ○ Compiling /_error ...
+ GET /banquets 200 in 3099ms
+ ✓ Compiled /_error in 8.7s (1127 modules)
+ GET / 500 in 10742ms
+ GET /admin 200 in 11218ms
+ GET /admin 200 in 8913ms
+ GET /admin 307 in 3956ms
+ GET /banquets 200 in 9136ms
+ ○ Compiling /admin/login ...
+ ✓ Compiled /admin/login in 3.4s (1131 modules)
+ GET /admin 200 in 5085ms
+ GET /admin/login 200 in 5132ms
+ GET /admin 200 in 633ms
+ GET /banquets 200 in 4039ms
+ GET /admin 200 in 501ms
+ GET / 200 in 5821ms
+ GET /banquets 200 in 513ms
+ GET /admin 200 in 87ms
+ GET / 200 in 912ms
+ GET /admin 200 in 377ms
+ GET /banquets 200 in 421ms
+ GET /admin 200 in 232ms
+ GET / 200 in 634ms
+ GET / 200 in 184ms
+ GET /admin/login 200 in 174ms
+ GET /admin/login 200 in 147ms
+ GET / 200 in 772ms
+ ○ Compiling /api/admin/login ...
+ ✓ Compiled /api/admin/login in 4s (1046 modules)
+ POST /api/admin/login 200 in 5535ms
+ ✓ Compiled in 2.2s (444 modules)
+ ○ Compiling /admin ...
+ GET /admin/login 200 in 3310ms
+ GET /admin/login 200 in 1997ms
+ GET /banquets 200 in 4351ms
+ GET / 200 in 7294ms
+ ✓ Compiled /admin in 8.3s (1068 modules)
+ GET /admin/login 200 in 7922ms
+ GET /admin 200 in 10032ms
+ GET /banquets 200 in 6227ms
+ GET / 200 in 4646ms
+ GET /admin/login 200 in 158ms
+ GET /banquets 200 in 280ms
+ GET / 200 in 599ms
+ POST /api/admin/login 200 in 252ms
+ GET /admin 200 in 121ms
+ GET /admin 200 in 155ms
+ ○ Compiling /admin/banquets ...
+ ✓ Compiled /admin/calendar in 10s (1130 modules)
+ GET /admin/reviews 200 in 8870ms
+ GET /admin/requests 200 in 7928ms
+ GET /admin/calendar 200 in 6970ms
+ GET /admin/banquets 200 in 10850ms
+ GET /admin/reviews 200 in 98ms
+ GET /admin/banquets 200 in 133ms
+ ○ Compiling /admin/banquets/[id] ...
+ ✓ Compiled /admin/banquets/[id] in 2.6s (1144 modules)
+ GET /admin/banquets/1 200 in 3976ms
+[?25h

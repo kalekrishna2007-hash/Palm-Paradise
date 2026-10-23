@@ -1,0 +1,21 @@
+# Freebuff Desktop
+
+## Session cookie dumps (dev :59591)
+
+- /tmp/cj3.txt — cookie jar after successful login with username `admin`
+- /tmp/cj6.txt — cookie jar for the dashboard/banquets/reviews/banquets/status checks
+
+Both jars hold `pp_admin_session=<payload>.<sig>` (HttpOnly, SameSite=Lax,
+non-Secure). The payload is a base64url JSON `{"u":"admin","exp":...}` whose
+signature is HMAC-SHA256 over the payload with `SESSION_SECRET`.
+
+## Key behavior details
+
+- Login endpoint accepts `username` + `password` only. `email` in the body is
+  rejected with `Enter both username and password.` (zod schema field names).
+- `isSameOrigin` on `/api/admin/login` and the booking-status routes is
+  origin-scoped: a request without the `Origin: http://localhost:3000`
+  header is rejected (401 on status, 403 on login in some shapes).
+- `DELETE /api/admin/bookings/1` → 405.
+- Booking status transitions require `{"action":"confirm"|"reject"|"cancel"}`.
+  `{"action":"reject"}` on a nonexistent booking returns 400 `Booking not found.`
